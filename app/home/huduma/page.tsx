@@ -3,15 +3,15 @@ import Link from "next/link"
 
 export default function Huduma() {
      return (
-        <div className="px-3 py-2 mt-2 grid grid-cols-1 grid-rows-[300px_minmax(400px,_1fr)_1000px]">
-             <div className="row-start-1 row=span-1 flex flex-row justify-center content-center">
-                 <h1>Explore success stories</h1>
+        <div className="px-3 py-2 mt-2 grid grid-cols-1 grid-rows-[150px_minmax(400px,_1fr)_1000px]">
+             <div className="row-start-1 row=span-1 flex flex-col justify-center place-items-center">
+                 <h1 className="text-4xl font-bold mb-4">Explore success stories</h1>
                  <h3>aaaaaaaaaaahhhhhhhhhhhhhhhhhhhh</h3>
              </div>
 
-             <div>
+             <div className="grid grid-cols-[150px_minmax(400px,_1fr)] grid-rows-[140px] justify-content place-items-center">
                  <span>
-                     <Image src='/passport.PNG' width={250} height={250} alt="img"/>
+                     <Image src='/passport.PNG' width={100} height={100} alt="img"/>
                  </span>
                  <span>
                      <p>
