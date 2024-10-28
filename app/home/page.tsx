@@ -1,8 +1,8 @@
-export default function Page() {
+export default function HomeRootLayout() {
     return (
         <main>
-            <div>
-                HOME
+            <div className="">
+                <h1>HomeRootLayout</h1>
             </div>
         </main>
     )
