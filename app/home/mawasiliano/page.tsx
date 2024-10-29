@@ -1,7 +1,21 @@
 export default function Mawasiliano() {
     return (
         <div>
-            <h1>Mawasiliano</h1>
+            <form action="">
+                <label htmlFor="">ex</label>
+                <input type="text" />
+
+                <label htmlFor="">ex</label>
+                <input type="text" />
+
+                <label htmlFor="">ex</label>
+                <input type="text" />
+
+                <label htmlFor="">ex</label>
+                <input type="text" />
+
+                <button>h</button>
+            </form>
         </div>
     )
 }
