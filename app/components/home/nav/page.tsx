@@ -27,7 +27,7 @@ export default function Nav() {
                          <li className="flex self-center mx-2 font-bold">
                             <Link href={{
                                 pathname:'/home/mimi'
-                            }}>Kuhusu Mimi</Link>
+                            }}>Mimi</Link>
                         </li>
 
                          <li className="flex self-center mx-2 font-bold">
