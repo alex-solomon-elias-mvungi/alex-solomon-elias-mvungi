@@ -1,4 +1,4 @@
-import Image from "next/image"
+/* import Image from "next/image"
 import { format } from "path";
 
 export default function Root() {
@@ -93,4 +93,12 @@ export default function Root() {
       </div>
     </main>
   )
+} */
+
+'use client'
+import {redirect} from 'next/navigation'
+
+export default function page() {
+    redirect('home')
+    return null
 }
