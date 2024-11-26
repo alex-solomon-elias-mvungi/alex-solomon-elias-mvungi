@@ -203,25 +203,25 @@ export default function huduma() {
             <select name='application' style={{marginRight: ".8rem"}}>
               <option value="app"></option>
             </select>
-             100TZSH
+             100 TZSH
           </h4>
           <h4 style={{ borderBottom: "2px gray solid", paddingBottom: ".2rem", paddingTop: ".3rem" }}>
             <select name='application' style={{marginRight: ".8rem"}}>
               <option value="app"></option>
             </select>
-              120TZSH
+              120 TZSH
           </h4>
           <h4 style={{ borderBottom: "2px gray solid", paddingBottom: ".2rem", paddingTop: ".3rem" }}>
              <select name='application' style={{marginRight: ".8rem"}}>
               <option value="app"></option>
             </select>
-              150TZSH
+              150 TZSH
           </h4>
           <h4 style={{ borderBottom: "2px gray solid", paddingBottom: ".2rem", paddingTop: ".3rem" }}>
              <select name='application' style={{marginRight: ".8rem"}}>
               <option value="app"></option>
             </select>
-              180TZSH
+              180 TZSH
           </h4>
         </div>
 
@@ -231,25 +231,25 @@ export default function huduma() {
             <select name='application' style={{marginRight: ".8rem"}}>
               <option value="app"></option>
             </select>
-              100TZSH
+              100 TZSH
           </h4>
           <h4 style={{ borderBottom: "2px gray solid", paddingBottom: ".2rem", paddingTop: ".3rem" }}>
             <select name='application' style={{marginRight: ".8rem"}}>
               <option value="app"></option>
             </select>
-              120TZSH
+              120 TZSH
           </h4>
           <h4 style={{ borderBottom: "2px gray solid", paddingBottom: ".2rem", paddingTop: ".3rem" }}>
              <select name='application' style={{marginRight: ".8rem"}}>
               <option value="app"></option>
             </select>
-              150TZSH
+              150 TZSH
           </h4>
           <h4 style={{ borderBottom: "2px gray solid", paddingBottom: ".2rem", paddingTop: ".3rem" }}>
              <select name='application' style={{marginRight: ".8rem"}}>
               <option value="app"></option>
             </select>
-              180TZSH
+              180 TZSH
           </h4>
         </div>
 
@@ -259,25 +259,25 @@ export default function huduma() {
             <select name='application' style={{marginRight: ".8rem"}}>
               <option value="app"></option>
             </select>
-              100TZSH
+              100 TZSH
           </h4>
           <h4 style={{ borderBottom: "2px gray solid", paddingBottom: ".2rem", paddingTop: ".3rem" }}>
             <select name='application' style={{marginRight: ".8rem"}}>
               <option value="app"></option>
             </select>
-              120TZSH
+              120 TZSH
           </h4>
           <h4 style={{ borderBottom: "2px gray solid", paddingBottom: ".2rem", paddingTop: ".3rem" }}>
              <select name='application' style={{marginRight: ".8rem"}}>
               <option value="app"></option>
             </select>
-              150TZSH
+              150 TZSH
           </h4>
         <h4 style={{ borderBottom: "2px gray solid", paddingBottom: ".2rem", paddingTop: ".3rem" }}>
            <select name='application' style={{marginRight: ".8rem"}}>
               <option value="app"></option>
             </select>
-              180TZSH
+              180 TZSH
           </h4>
         </div>
 

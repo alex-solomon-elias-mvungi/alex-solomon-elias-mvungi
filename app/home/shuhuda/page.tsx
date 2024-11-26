@@ -101,7 +101,7 @@ export default function Shuduma() {
                             <p className="font-light text-sm italic">computer sientisc</p>
                         </div>
                      </p>
-                 </span>
+                   </span>
              </div>
 
              {/* <div className="row-start-3 row=span-1 grid grid-rows-[6rem] grid-cols-[1fr,1fr,1fr]">
